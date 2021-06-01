@@ -4,4 +4,4 @@ Using "ap_topics_ver2.R" you can run topic modeling and store top-n terms and to
 
 ![alt text](https://github.com/aminmarani/Topic-Labeling/raw/master/images/topics.jpg)
 
-** See the attached notebook for more details https://github.com/aminmarani/Topic-Labeling/raw/master/topic2html.ipynb**
+** See the attached notebook topic2html.ipynb for more details **
